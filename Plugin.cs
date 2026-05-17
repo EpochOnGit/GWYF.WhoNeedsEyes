@@ -25,6 +25,6 @@ namespace GWYF.WhoNeedsEyes
     {
         public const string PLUGIN_GUID = "GWYF.Epoch.WhoNeedsEyes";
         public const string PLUGIN_NAME = "Who Needs Eyes!";
-        public const string PLUGIN_VERSION = "1.0.0";
+        public const string PLUGIN_VERSION = "1.0.1";
     }
 }
